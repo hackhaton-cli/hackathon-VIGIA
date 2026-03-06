@@ -16,8 +16,6 @@ O **VIGIA** é uma aplicação web desenvolvida para auxiliar profissionais de s
   - Medicações em uso
   - Outros fatores de risco (tabagismo, obesidade, colesterol)
 
-```
-
 ## Funcionalidades Principais
 
 ### Dashboard
@@ -94,4 +92,3 @@ src/
 │   └── routes.tsx      # Configuração de rotas
 ├── styles/             # Estilos globais e temas
 └── main.tsx           # Ponto de entrada da aplicação
-
